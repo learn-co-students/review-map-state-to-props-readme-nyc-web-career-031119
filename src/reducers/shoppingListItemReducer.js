@@ -1,4 +1,4 @@
-export default function shoppingListItemReducer(state = {
+  export default function shoppingListItemReducer(state = {
   items: [], 
   users: [ 'initial user' ]
 }, action) {
